@@ -1,5 +1,5 @@
 import java.util.Stack;
-class Solution {
+ class Day2_ValidParentheses {
     public boolean isValid(String s) {
         Stack<Character> stack =new Stack<>();
         for(int i=0; i<s.length(); i++)
@@ -22,4 +22,14 @@ class Solution {
         }
         return stack.isEmpty();
     }
+        public static void main(String[] args) {
+        Day2_ValidParentheses solution = new Day2_ValidParentheses();
+        System.out.println(solution.isValid("()"));      // true
+        System.out.println(solution.isValid("()[]{}")); // true
+        System.out.println(solution.isValid("(]"));     // false
+        System.out.println(solution.isValid("([)]"));   // false
+        System.out.println(solution.isValid("{[]}"));   // true
+        System.out.println(solution.isValid("("));      // false
+    }                          
+
 }

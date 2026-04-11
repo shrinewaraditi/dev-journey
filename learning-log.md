@@ -1,4 +1,51 @@
 #  My Dev Journey
+## Day 3 — April 12, 2026
+
+### Quote
+> *"Progress is progress, no matter how small."*
+
+### What I Did
+- Revised Day 1 and Day 2 LeetCode problems — Two Sum and Valid Parentheses
+- Thought through the Stock problem approach on my own
+- Identified the exact logical gap myself — global min and max don't work
+  because max must come AFTER min in the array
+- correct approach is to — track minPrice as you go and
+  calculate profit at each step 
+  - Learned how to add main method to any solution for VS Code
+  - Fixed class name and file name mismatch in Java files
+
+### What Actually Clicked
+The buy before sell rule completely changes the approach.
+Can't just find the smallest and largest number in array.
+The minimum must always come before the maximum index wise.
+Tracking minPrice so far at each step automatically handles this.
+That was the real insight today.
+Also understood that LeetCode runs code automatically but
+VS Code needs main as entry point — like a front door.
+
+### Honest Reflection
+Didn't touch HTML or VS Code.
+But didn't sleep without doing anything either.
+Sat with the stock problem, thought it through,
+found my own gap and understood why.
+Some days thinking counts more than typing.
+End of day fixed Java setup issues and understood
+
+### What Is Pending — Carry Forward to Tomorrow
+- Fix nav anchor links in HTML page
+- Add image and contact form to HTML page
+- Fix Java file name to match class name
+- Submit day 3 problem  on LeetCode
+
+### Tomorrow
+Clear all pending tasks first — then move forward.
+No new topics until pending is done.
+
+### Mood
+Showed up even on a bad day.
+That is the habit being built.
+
+---
 ## Day 2 — April 11, 2026
 
 ### What I Did
