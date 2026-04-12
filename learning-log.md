@@ -1,4 +1,29 @@
 #  My Dev Journey
+## Day 4 — April 13, 2026
+
+### Quote
+> *"Small steps every day beat big steps someday."*
+
+### What I Did
+- Day 3 Stock problem accepted on LeetCode 
+- Added main method to Day 3 solution independently
+- Watched one HTML basics video — got started
+
+### Honest Reflection
+Three LeetCode problems accepted in first four days.
+Starting to understand the pattern of adding main method
+without being told exactly what to write.
+HTML video watched — slow start but started.
+
+### Pending — Tomorrow Priority
+- Read HTML theory notes and make notes
+- Fix nav, add image, add form to HTML page
+
+### Mood
+Tired. But three accepted solutions in four days.
+That counts for something. Sleeping without guilt.
+
+---
 ## Day 3 — April 12, 2026
 
 ### Quote
