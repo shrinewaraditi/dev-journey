@@ -500,4 +500,141 @@ Your HTML file (index.html)
 ### Resources
 "Sheryians HTML crash course"
 ---
+# HTML Quick Notes (Basic to Interview Ready)
 
+## ✅ What I Know
+- Basic HTML structure (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
+- Headings (`h1` to `h6`)
+- Paragraph (`p`)
+- Basic formatting (`b`, `i`)
+- Lists (`ul`, `ol`)
+
+---
+
+## ❌ Mistakes to Avoid
+
+### 1. Always Close Tags
+Wrong:
+```
+<li>Item
+```
+Correct:
+```
+<li>Item</li>
+```
+
+---
+
+### 2. Use Correct Link Tag
+Wrong:
+```
+<link a href="...">
+```
+Correct:
+```
+<a href="https://example.com">Click here</a>
+```
+
+---
+
+### 3. Use Meaningful Title
+```
+<title>My First Test Page</title>
+```
+
+---
+
+## 📌 Important Tags (Must Know)
+
+### 🔹 Link
+```
+<a href="https://google.com">Google</a>
+```
+
+### 🔹 Image
+```
+<img src="image.jpg" alt="description">
+```
+
+---
+
+## 📊 Tables (Important for Interview)
+```
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+    <th>City</th>
+  </tr>
+  <tr>
+    <td>Aditi</td>
+    <td>21</td>
+    <td>Pune</td>
+  </tr>
+</table>
+```
+
+---
+
+## 📝 Forms (VERY IMPORTANT)
+
+```
+<form>
+  Name: <input type="text"><br>
+  Email: <input type="email"><br>
+
+  Gender:
+  <input type="radio" name="gender"> Male
+  <input type="radio" name="gender"> Female
+
+  Skills:
+  <input type="checkbox"> HTML
+  <input type="checkbox"> CSS
+
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+```
+
+---
+
+## 🧱 Semantic Tags (Modern HTML)
+
+- `<header>` → Top section
+- `<section>` → Content block
+- `<footer>` → Bottom section
+
+Example:
+```
+<header>My Website</header>
+
+<section>
+  <h2>About Me</h2>
+</section>
+
+<footer>Made by Aditi</footer>
+```
+
+---
+
+## ⚡ Best Practices
+
+- Use `<strong>` instead of `<b>`
+- Use `<em>` instead of `<i>`
+- Always indent code properly
+- Always close tags
+- Use meaningful names
+
+---
+
+## 🎯 Goal
+
+I can say "I know HTML" when I can:
+- Create full page structure
+- Add links, images
+- Create tables
+- Build forms
+- Use semantic tags correctly
+### underline
+better way - <span style="text-decoration: underline;">This text is underlined</span>
+simple- <u>This text is underlined</u>

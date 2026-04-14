@@ -1,4 +1,44 @@
 #  My Dev Journey
+## Day 5 — April 14, 2026
+### Quote
+> *"Do what you can, with what you have, where you are."*
+
+### What I Did
+- Contains Duplicate accepted on LeetCode 
+- Ran solution in VS Code terminal as well
+- Understood HashSet theory properly
+- Read HTML theory and made notes
+- Took HTML self test — found where I lack
+
+### What Actually Clicked
+HashSet finally made sense today.
+It is just a set of unique values nothing more.
+If I add same value twice it just ignores it silently.
+That is why it is perfect for duplicate checking.
+
+### Honest Confession
+Taking more days on HTML than planned.
+But rushing it will only create weak foundation.
+Going at my own speed and that is okay.
+Notes are made, concepts are clear now.
+Better slow and solid than fast and shaky.
+
+### Where I Lack in HTML
+forms and tables
+also sometimes i mess up how to add link or add image in html page
+
+### Pending
+- HTML page — nav fix, image, form still remaining also tables 
+
+### Tomorrow
+- Fix HTML page pending tasks
+- New LeetCode problem
+
+### Mood
+Feeling that something is being acheived but it also feels that space is slow .
+but improving consistentaly.
+
+---
 ## Day 4 — April 13, 2026
 
 ### Quote
