@@ -133,3 +133,7 @@ DATA STRUCTURE: HashMap
 PATTERN:
   nested loops O(n²) → upgrade with HashSet/HashMap → O(n)
   seen in: Two Sum, Contains Duplicate, and many more
+
+### Single Line and Multiline comments
+// single line
+/* ..... */ multiline comments
