@@ -1,4 +1,68 @@
 #  My Dev Journey
+## Day 7 — April 16, 2026
+### Quote
+> *"Consistency is what transforms average into excellence."*
+
+### What I Did
+- Solved Move Zeroes on LeetCode ✅
+- Learned enhanced for loop for printing arrays
+- Understood two pointer / insert position pattern
+
+### What Clicked
+Instead of creating new array just track where
+next non-zero element should go using insertPos.
+Then fill rest with zeroes. Clean and simple.
+
+### Honest Reflection
+Short day — 30-40 min only but showed up anyway.
+Array problems mostly need one pointer or two pointers.
+That pattern is becoming clearer slowly.
+
+### Mood
+Short but solid. Showing up on busy days
+matters more than perfect days.
+
+---
+
+## Day 6 — April 15, 2026
+### Quote
+> *"You don't have to be great to start,
+>  but you have to start to be great."*
+
+### What I Did
+- Performed internship tasks in Java ✅
+- Pushed internship work to GitHub ✅
+- Revised Java basics for college viva
+- Learned and revised OOP concepts —
+  class, object, encapsulation, inheritance,
+  polymorphism, abstraction
+
+### What Actually Clicked
+Internship code was in Java and pushing it to
+GitHub felt different from pushing practice code.
+That was real work on a real repo.
+Also static keyword finally made sense —
+it belongs to class not to any object.
+That one line cleared weeks of confusion.
+
+### Honest Confession
+Did not complete planned DSA and HTML tasks.
+College viva preparation took priority.
+That was the right call for that day.
+Learning is not always from a planned task —
+revising Java for viva taught real concepts too.
+
+### Pending Carried Forward
+- HTML — nav fix, image, form still remaining
+- Maximum Subarray still not submitted
+- Move Zeroes pending → done today ✅
+
+### Mood
+Busy day but productive in a different way.
+Internship + viva prep + GitHub push —
+that is a full day even without planned tasks.
+
+---
 ## Day 5 — April 14, 2026
 ### Quote
 > *"Do what you can, with what you have, where you are."*
