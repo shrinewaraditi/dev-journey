@@ -137,3 +137,23 @@ PATTERN:
 ### Single Line and Multiline comments
 // single line
 /* ..... */ multiline comments
+### two sum solution using hashmap
+import java.util.HashMap;
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> seen = new HashMap<>();
+        // seen stores → {number : its index}
+
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];  // what number do I NEED?
+
+            if (seen.containsKey(complement)) {  // have I seen it before?
+                return new int[]{seen.get(complement), i};
+            }
+
+            seen.put(nums[i], i);  // store current number and its index
+        }
+        return new int[]{};
+    }
+}
