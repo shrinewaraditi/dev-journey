@@ -1,4 +1,49 @@
 #  My Dev Journey
+## April 20, 2026
+
+> *"You don't always have to do a lot.
+>   You just have to keep going."*
+
+### What I Did
+- Completed HTML page finally — nav links working,
+  image added, contact form done ✅
+- Revised all DSA problems covered so far
+- Revised Java concepts — OOP, static, constructors,
+  ArrayList vs Array, == vs equals
+- Went back to Day 1 problems and re-read solutions
+
+### Honest Reflection
+Four days without a log update.
+Not going to make excuses — just did not do it.
+But these four days were not completely empty either.
+HTML is finally done after carrying it for too long.
+That one thing alone makes this week okay.
+Revision felt slow but second reads always hit different.
+Things that confused me on Day 1 are obvious now.
+That is how learning actually works I think.
+
+### What Clicked on Revision
+Two pointer pattern is cleaner than I thought.
+insertPos does the job of count variable automatically.
+HashMap vs HashSet difference is solid in my head now.
+
+### Still Pending
+- Maximum Subarray — submitting today
+- CSS not started yet — starts tomorrow no excuses
+- test.html from scratch — still not built
+
+### What Changes From Tomorrow
+One thing every day minimum.
+Even if it is just one LeetCode submission.
+Log gets updated same day — no more catching up.
+
+### Mood
+Behind on paper.
+But HTML done, Java concepts revised, DSA revised.
+That is more than nothing.
+Reset starts today.
+
+---
 ## Day 7 — April 16, 2026
 ### Quote
 > *"Consistency is what transforms average into excellence."*

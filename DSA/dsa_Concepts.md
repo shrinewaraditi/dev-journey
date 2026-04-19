@@ -157,3 +157,22 @@ class Solution {
         return new int[]{};
     }
 }
+### to add  main class 
+// STEP 1 — your class name
+class YourClassName {
+
+    // STEP 2 — your solution method (LeetCode part)
+    public returnType methodName(parameters) {
+        // your solution logic
+    }
+
+    // STEP 3 — main method (VS Code part)
+    public static void main(String[] args) {
+
+        // STEP 4 — create object of your class
+        YourClassName solution = new YourClassName();
+
+        // STEP 5 — call your method using object and print result
+        System.out.println(solution.methodName(testInput));
+    }
+}
