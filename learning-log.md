@@ -1,4 +1,10 @@
 #  My Dev Journey
+## April 27, 2026
+
+Watched Neetcode Contains Duplicate explanation visually.
+Passive revision day — sometimes rest is part of the process.
+
+---
 ## April 20, 2026
 
 > *"You don't always have to do a lot.
